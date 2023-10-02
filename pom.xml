@@ -132,7 +132,7 @@
         <dependency>
             <groupId>com.checkmarx</groupId>
             <artifactId>cx-client-common</artifactId>
-            <version>2021.1.146</version>
+            <version>2023.1.1</version>
             
             
             <!-- Remove these excludes once latest FSA is used -->
@@ -217,7 +217,7 @@
         <dependency>
         		<groupId>io.vertx</groupId>
            		<artifactId>vertx-web</artifactId>
-           		<version>4.0.2</version>
+           		<version>4.2.6</version>
         </dependency>
         <dependency>
         		<groupId>io.netty</groupId>
