@@ -200,7 +200,7 @@
         <dependency>
         	<groupId>io.netty</groupId>
            	<artifactId>netty-codec-http</artifactId>
-           	<version>4.1.53.Final</version>
+           	<version>4.1.108.Final</version>
         </dependency>
         <dependency>
         	<groupId>org.mozilla</groupId>
@@ -217,7 +217,7 @@
         <dependency>
         		<groupId>io.vertx</groupId>
            		<artifactId>vertx-web</artifactId>
-           		<version>4.0.2</version>
+           		<version>4.5.6</version>
         </dependency>
         <dependency>
         		<groupId>io.netty</groupId>
